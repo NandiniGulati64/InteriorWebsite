@@ -61,7 +61,7 @@
     color: #fff;
     width: 100%;
     z-index: 8;
-    padding: 5px 10px;
+    /* border-color: #3267e0; */
     opacity: .8;
     overflow: hidden;
     display: none;

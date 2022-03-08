@@ -542,17 +542,11 @@ a:focus {
 ------------------------------------------------------- */
 
 #about_bg{	
-	background: url(../img/about/image1.jpg) 50% 0 no-repeat fixed;
-	padding-top: 200px;
-	padding-bottom: 200px;
-	background-size: cover;					
+
 }
 
 #contact_bg{	
-	background: url(../img/about/image0.jpg) 50% 0 no-repeat fixed;
-	padding-top: 200px;
-	padding-bottom: 200px;
-	background-size: cover;					
+					
 }
 
 #service_bg{	
@@ -877,7 +871,7 @@ a:focus {
 	color: #3267e0;
 }
 .cbp-popup-singlePage .cbp-popup-navigation-wrap {	
-	background-color: #2a2a2a;
+	background-color: #f9eadd;
 }
 .cbp-popup-singlePage .cbp-l-project-title {
 	color: #454444;
@@ -1191,7 +1185,7 @@ acronym{
 ------------------------------------------------------- */
 .footer-big{
 	color: #aaaaaa;
-	background-color: #2a2a2a;
+	background-color: #f9eadd;
 	font-size: 15px;
 }
 #footer{
@@ -1224,7 +1218,7 @@ acronym{
 	line-height: 31px;
 	font-weight: 300;
 	letter-spacing: 3px;
-	color: #fff;	
+	color: #000000;	
 	-webkit-font-smoothing: antialiased;
 }
 .f-space{
@@ -1232,7 +1226,7 @@ acronym{
 }
 .f-inner strong{
 	font-family: 'Raleway', sans-serif;
-	color: #ffffff!important;	
+	color: #000000!important;	
 	font-weight: 400;
 	font-size: 14px;
 	letter-spacing: 1px;
@@ -1244,7 +1238,7 @@ acronym{
 	margin: 0;
 }
 .f-inner i{
-	color: #3267e0;
+	color: #f9eadd;
 }
 .f-copyright{
 	margin-top: 6px;
@@ -1266,7 +1260,7 @@ ul.footer-social{
 	padding: 30px 0;
 	font-family: 'Raleway', sans-serif;
 	font-weight: 500;
-	background-color: #3267e0;
+	background-color: #000000;
 	font-size: 15px;
 	line-height: 25px;
 	color: #ffffff;
@@ -1283,7 +1277,7 @@ ul.footer-social{
 	background-color: #222;
 }
 .f-action a:focus{
-	color:#fff;
+	color:#000000;
 }
 .cta-section h2{
 	margin-bottom: 30px;
@@ -1299,7 +1293,7 @@ ul.footer-social{
 	line-height: 31px;
 	font-weight: 300;
 	letter-spacing: 3px;
-	color: #333;
+	color: #000000;
 	text-transform: uppercase;
 	-webkit-font-smoothing: antialiased;
 	padding: 0;
@@ -1311,7 +1305,7 @@ ul.footer-social{
 	line-height: 31px;
 	font-weight: 300;
 	letter-spacing: 3px;
-	color: #fff;
+	color: #000000;
 	text-transform: uppercase;
 	-webkit-font-smoothing: antialiased;
 	padding: 0;
@@ -1334,8 +1328,8 @@ ul.footer-social{
 	color: #999;
 }
 .canvas-nav a:hover{
-	color: #3267e0;
-	background-color: #fff;
+	color: #000000;
+	background-color: #000000;
 	-webkit-transition: all .2s ease-in-out;
 	-moz-transition: all .2s ease-in-out;
 	-ms-transition: all .2s ease-in-out;
@@ -1367,7 +1361,7 @@ ul.footer-social{
 	color: #fff;	
 }
 .mm-menu {
-	background: #2a2a2a;
+	background: #f9eadd;
 	color: #aaaaaa;
 }
 .mm-menu .mm-list > li:after {
